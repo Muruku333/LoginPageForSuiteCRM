@@ -55,7 +55,7 @@
 		
 	</div>
     
-    //<div class="p_login_middle">
+  //   *************  <div class="p_login_middle">
         {if $LOGIN_ERROR_MESSAGE}
             <p align='center' class='error'>{$LOGIN_ERROR_MESSAGE}</p>
         {/if}
@@ -144,7 +144,7 @@
         </form>
         
     </div>
-  //  </div>
+  // ****************  </div>
     
     <div class="p_login_bottom">
 
